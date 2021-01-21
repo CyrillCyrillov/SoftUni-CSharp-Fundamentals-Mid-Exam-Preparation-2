@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.exe
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.deps.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.runtimeconfig.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\bin\Debug\netcoreapp3.1\Task02_Shopping_List.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.dll
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.pdb
+C:\Users\Kiril\source\repos\Mid_Exam_Preparation_2\Task02_Shopping_List\obj\Debug\netcoreapp3.1\Task02_Shopping_List.genruntimeconfig.cache
